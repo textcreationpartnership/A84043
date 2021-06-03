@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eirēnikon a poeme wherein is perswaded the composing of the differences of all the faithfull in Christ Iesus under what forme soever whether Episcopall Presbyterian Congregationall or Antipedobaptist. / by an unworthy seruant of the Lord who desires the peace of the Churches of Christ and of these nations.</title>
+         </titleStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84043</idno><idno type="EEBO-CITATION">99865682</idno>
+  <idno type="VID">168417</idno>
+  <idno type="EEBO-PROQUEST">2240941738</idno>
+  
+            <idno type="STC">Wing E315</idno>
+            <idno type="STC">Thomason E892_6</idno>
+            <idno type="STC">ESTC R206556</idno>
+            <idno type="PROQUEST">99865682</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865682e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84043)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168417)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 134:E892[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eirēnikon a poeme wherein is perswaded the composing of the differences of all the faithfull in Christ Iesus under what forme soever whether Episcopall Presbyterian Congregationall or Antipedobaptist. / by an unworthy seruant of the Lord who desires the peace of the Churches of Christ and of these nations.</title>
+               </titleStmt>
+               <extent>[2], 5-31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Luke Fawne at the Parrett in Paules Church-yard, 1656. R. Gaywood facit Londini,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>[1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Engraved title page.</note>
+                  <note>The first word of title is in Greek characters.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "9ber [i.e. November] 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Faith --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168417:1"/>
+            <p>
+               <figure>
+                  <figDesc>four hands clasped</figDesc>
+                  <p>ΕΙΡΗΝΙΚΟΝ a <hi>Poeme</hi> Wherein is perswaded the composing of the differences of all the faithfull in Christ Iesus under what forme soever whether Episcopall Presbyterian Congrega<g ref="char:EOLhyphen"/>tionall or Antipedobaptist.</p>
+                  <p>
+                     <hi>by An vnworthy Seruant of the Lord who desires the peace of the Churches of Christ and of these nati<g ref="char:EOLhyphen"/>ons.</hi>
+                  </p>
+                  <p>4. Ephe. 3.4.5.6.</p>
+                  <p>LONDON. Printed for Luke Fawne at the Parrett in Paules Church-yard, 1656.</p>
+                  <p>
+                     <hi>R Gaywood fecit Londini:</hi>
+                  </p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:168417:2"/>
+            <pb n="5" facs="tcp:168417:2"/>
+            <head>A Poem.</head>
+            <l>
+               <seg rend="decorInit">I</seg>S it a subject needs a pen to write</l>
+            <l>Down Arguments, <hi>For brethren to Unite?</hi>
+            </l>
+            <l>Surely it should not; for what can befall</l>
+            <l>Thats more uncomely or unnaturall</l>
+            <l>Then high contests, amongst so neer Relations,</l>
+            <l>Yet what more common now in our three Nations? <note place="margin">James 3. 16. Gen. 25. 24.</note>
+            </l>
+            <l>Who may not hear this dayly sad complaint,</l>
+            <l>Ith' mouthes of almost every knowing Saint?</l>
+            <l>Each crying out upon the sad <hi>Divisions,</hi>
+            </l>
+            <l>
+               <hi>Whisperings,</hi> and unbrotherly <hi>misprisions;</hi>
+            </l>
+            <l>Sly and unchristian, subtil <hi>underminings,</hi>
+            </l>
+            <l>
+               <hi>Murm'rings,</hi> and <hi>censorious repinings,</hi>
+            </l>
+            <l>
+               <hi>High animosities,</hi> and sharp contests,</l>
+            <l>Which spread themselves, and as infectious pests</l>
+            <pb n="6" facs="tcp:168417:3"/>
+            <l>Threaten destruction to our Christian state</l>
+            <l>Ah! wo is me, 'tis an unhappy fate.</l>
+            <l>At such a time, when <hi>Gebal, Ammon,</hi> and</l>
+            <l>Accursed <hi>Amaleck</hi> together Band: <note place="margin">Psal. 83. 5, 6, 7</note>
+            </l>
+            <l>When <hi>Edom</hi> and the out-cast <hi>Ismaelites</hi>
+            </l>
+            <l>The <hi>Hagariens,</hi> and th'incestuous <hi>Moabites;</hi>
+            </l>
+            <l>
+               <hi>Tyrus</hi> and <hi>Ashur</hi> joyn to work our harm,</l>
+            <l>And to <hi>Lots</hi> children are become an arm;</l>
+            <l>All plot together, and deep counsels lay,</l>
+            <l>How they the Churches of <hi>King Jesus</hi> may</l>
+            <l>Bring unto utter desolution,</l>
+            <l>And not to leave one in a Nation.</l>
+            <l>It's their endeavours wholly to enthral</l>
+            <l>Your states, your lives, your consciences and all:</l>
+            <l>Let's cast an eye on that which unto us</l>
+            <l>Is most apparent and conspicuous,</l>
+            <l>And by the foots impression you may see</l>
+            <l>What the whole body probably will be.</l>
+            <l>Is not a War begun, stated indeed,</l>
+            <l>Betwixt the <hi>Dragon</hi> and the <hi>Womans</hi> seed?</l>
+            <l>The Dragon rages, and wer't in his power,</l>
+            <l>Full soon would he the Womans child devour; <note place="margin">Rev. 12. 4.</note>
+            </l>
+            <l>And if our God prevent not, without doubt</l>
+            <l>Men do resolve to root the Gospel out.</l>
+            <l>What was the quarrel when in <hi>Ireland</hi> they</l>
+            <l>Design'd the deaths of thousands in one day?</l>
+            <l>And in what manner did they there proceed,</l>
+            <l>Who can repeat it, and his heart not bleed?</l>
+            <l>Never did any former Age devise</l>
+            <l>More bloody and unheard of cruelties</l>
+            <pb n="7" facs="tcp:168417:3"/>
+            <l>Then they contrived in their hellish rage,</l>
+            <l>And in the pursuit spar'd not Sex, nor Age;</l>
+            <l>Nor would they ground for execution want,</l>
+            <l>'Twas crime enough to be call'd Protestant.</l>
+            <l>There cruelties were equally the same</l>
+            <l>To those, who were but Protestants in name;</l>
+            <l>Such cruelties as with black hell durst vye,</l>
+            <l>And out-brave Sathans cursed ingenie.</l>
+            <l>How this designe goes on, you may discern</l>
+            <l>By sad <hi>Angrogne,</hi> and the Vale <hi>Lucerne.</hi>
+            </l>
+            <l>Where they would ruine to Religion bring,</l>
+            <l>And root it up there, where it first did spring.</l>
+            <l>Those <hi>Poor</hi> of <hi>Lyons</hi> stiled heretofore,</l>
+            <l>How do the Lyons now devour the poor?</l>
+            <l>And th'old <hi>Waldenses</hi> off-spring are now come</l>
+            <l>Into a new succeeding Martyrdome.</l>
+            <l>Give leave a short digression to make,</l>
+            <l>And that I may my self and you awake,</l>
+            <l>Some part of their late troubles to rehearse; <note place="margin">Rev. 13. 17.</note>
+            </l>
+            <l>Were they not first forbidden all commerce?</l>
+            <l>Next, contrary to the Law of Nations,</l>
+            <l>They drove them from their ancient habitations,</l>
+            <l>And in the late past year of <hi>fifty three</hi>
+            </l>
+            <l>They were invaded by a great Army;</l>
+            <l>But the wise and All-seeing God made vain</l>
+            <l>That curs'd designe, by an unusual rain:</l>
+            <l>He that so oft deliverance had shown</l>
+            <l>In former times, did yet their quarrel own.</l>
+            <l>Unto their <hi>Prince</hi> they humbly then appeald</l>
+            <l>To get their ancient Rights confirm'd and seal'd:</l>
+            <pb n="8" facs="tcp:168417:4"/>
+            <l>Which they got done, and though it cost them large,</l>
+            <l>Yet were they forc'd to bear a further charge</l>
+            <l>Of th' Armies pay, late rais'd for to destroy them,</l>
+            <l>And quarter'd yet amongst them to annoy them,</l>
+            <l>But by agreement should have been disbanded:</l>
+            <l>
+               <hi>Lucerns</hi> inhabitants were then commanded</l>
+            <l>To go to Mass, or else to quit the place</l>
+            <l>Of their abode, and that in three dayes space,</l>
+            <l>Contrary to th' concessions of their Prince,</l>
+            <l>Declar'd, and twice confirm'd in their defence,</l>
+            <l>And they not summon'd nor admitted to</l>
+            <l>Plead for themselves; would Infidels thus do?</l>
+            <l>S. <hi>Martins</hi> and <hi>Perouse</hi> from the same powers</l>
+            <l>Had liberty but four and twenty hours</l>
+            <l>On the same terms, and whosoe're refused,</l>
+            <l>VVere in a most inhumane manner used:</l>
+            <l>Their houses plundred were, then set on burning,</l>
+            <l>So to prevent them ever from returning.</l>
+            <l>All they who could bear arms enjoyned were,</l>
+            <l>Strictly upon a set day to appear.</l>
+            <l>And being met, an Oath of secresie</l>
+            <l>VVas given them, that the design might be</l>
+            <l>The better cover'd, prisoners were set free;</l>
+            <l>All malefactors had their liberty,</l>
+            <l>And ban sht Rogues unto return invited.</l>
+            <l>Their number thus grown great, and thus united,</l>
+            <l>Pardon of sin as a reward was set,</l>
+            <l>And whatsoever plunder they could get;</l>
+            <l>In hope their souls to save and purses fill,</l>
+            <l>These Butchers do resolve to slay and kill:</l>
+            <pb n="9" facs="tcp:168417:4"/>
+            <l>A <hi>Marquesse</hi> of that Countrey was to head them,</l>
+            <l>And on this horrid enterprize to lead them.</l>
+            <l>VVho like a true Son of <hi>Romes</hi> Church, was willing</l>
+            <l>To hasten on that blessed work of killing:</l>
+            <l>But found that nature had prepar'd a wall</l>
+            <l>For their defence, against th'unnaturall;</l>
+            <l>So that he then resolv'd, what could not be</l>
+            <l>Attain'd by force, he would by treachery</l>
+            <l>Closely attempt, and seek to bring about.</l>
+            <l>And for that end, this smooth design found out:</l>
+            <l>He straightway sendeth for the Deputies</l>
+            <l>Of severall Cities, and to them applys;</l>
+            <l>And by a solemn oath unto them given, <note place="margin">Angrogne Villar Boby.</note>
+            </l>
+            <l>With eyes lift up, and hands stretcht out to heaven,</l>
+            <l>He promiseth, That if they would give leave</l>
+            <l>To each place but for three dayes to receive</l>
+            <l>Of Horse and Foot onely one Regiment,</l>
+            <l>They should receive no harme, or detriment.</l>
+            <l>These harmless souls, unto deceit not us'd,</l>
+            <l>Were by his guiles more easily abus'd.</l>
+            <l>"Well meaning men are ever least suspicious</l>
+            <l>"And so more easily wronged by the vicious.</l>
+            <l>They took his oath, not fearing ill intents</l>
+            <l>And gave way to receive those Regiments;</l>
+            <l>Who were no sooner in, but they made way</l>
+            <l>For their whole Army; and thus did betray</l>
+            <l>Those sons of <hi>Peace,</hi> keeping nor Oath, nor Word,</l>
+            <l>But presently put all to fire and sword;</l>
+            <l>They spar'd not any, whomsoev'r they found,</l>
+            <l>
+               <hi>Lucerns seven Churches</hi> they burnt to the ground.</l>
+            <pb n="10" facs="tcp:168417:5"/>
+            <l>Many fled to the Mountaines for their lives,</l>
+            <l>Mothers with Infants, Husbands with their Wives,</l>
+            <l>With hopes their cruelties to have eschewed,</l>
+            <l>But poor sad souls, they quickly were pursued</l>
+            <l>And soon ore taken by that cursed brood,</l>
+            <l>Who as soon had their hands imbrew'd in blood,</l>
+            <l>Nothing but sights of sadness could be seen,</l>
+            <l>The earth discolour'd from its fair grass green</l>
+            <l>Into sad purple, or a bloody red,</l>
+            <l>Was all with mangled bodies over-spread.</l>
+            <l>The lightsome skie was into darkness turn'd</l>
+            <l>By smoak of houses, and of Churches burn'd.</l>
+            <l>If you look to the Woods, there you might see</l>
+            <l>The intrailes of a man, wond round a tree;</l>
+            <l>Which first were fastned, then he forst about,</l>
+            <l>Untill that they and life were both spun out.</l>
+            <l>Go on a little further, you might meet</l>
+            <l>With many poor souls hanging by the feet.</l>
+            <l>Some torn in peeces, others slasht and cut,</l>
+            <l>Then falt and powder into their wounds put;</l>
+            <l>And as if not enough to encrease their pain,</l>
+            <l>They caus'd their shirts to be put on again;</l>
+            <l>And after fir'd them, some they naked stript,</l>
+            <l>And causing them first to be sorely whipt,</l>
+            <l>They by the head and feet together bound</l>
+            <l>Were tumbled from high rocks unto the ground.</l>
+            <l>Some groaning out their souls for help, did pray,</l>
+            <l>But 'twas in vain; here a poor Infant lay</l>
+            <l>Close to his mother, who had one bare brest</l>
+            <l>Which while she gave it, both were laid to rest.</l>
+            <pb n="11" facs="tcp:168417:5"/>
+            <l>Here might you see some mothers lying under</l>
+            <l>The lymbs of their dead children torn a sunder</l>
+            <l>By the rude Souldiers, who in barbarous sort</l>
+            <l>Struck at each other with those lymbs in sport.</l>
+            <l>Which having done, they join'd them each to other,</l>
+            <l>And laid them cross i'th arms o'th dying Mother.</l>
+            <l>Other with child, through fear miscarried,</l>
+            <l>And lay with their but half-born children dead.</l>
+            <l>Others lay struggling under dying pains</l>
+            <l>Besmeared with their Infants blood, and brains:</l>
+            <l>Here lay an Infant crawling; there another</l>
+            <l>Sucking the breast of its late murther'd Mother.</l>
+            <l>Virgins were ravish't, who did after dye</l>
+            <l>Under unheard of barbrous cruelty.</l>
+            <l>In many places there was to be found</l>
+            <l>Bodies by sharp-stakes fastned to the ground.</l>
+            <l>Here lay an Arm, there Legs, and there a Head;</l>
+            <l>Here Bodies, Bowels, Brains, here some half dead.</l>
+            <l>Others by companies together flying,</l>
+            <l>Breathless and weary, running, scritching, crying:</l>
+            <l>Whose doleful clamors oft redoubled were,</l>
+            <l>By Ecchoes from the Rocks, which seem'd to bear</l>
+            <l>Compassion to them under misery,</l>
+            <l>Rendring them groan for groan, and cry for cry.</l>
+            <l>Both one and th' other went up to his Ears <note place="margin">Psal. 56. 8.</note>
+            </l>
+            <l>Who knows the sighs, and bottles up the tears</l>
+            <l>Of his opprest ones, and at last will bring</l>
+            <l>Their Persecutors to a reckoning. <note place="margin">Psal. 12. 5.</note>
+            </l>
+            <l>Grave <hi>Peter Symont,</hi> he whose life had told</l>
+            <l>A hundred years, his Wife almost as old.</l>
+            <pb n="12" facs="tcp:168417:6"/>
+            <l>Being full ninety five; their wedlock-bands</l>
+            <l>Were cut asunder by those bloody hands.</l>
+            <l>Both old and young in this days slaughter fell,</l>
+            <l>But few escap't their miseries to tell.</l>
+            <l>And of those few, several did death embrace,</l>
+            <l>Rather then they'd be present at the Mass.</l>
+            <l>Others were willing to give all away</l>
+            <l>If that they might their consciences enjoy.</l>
+            <l>But that not granted, shews all this was done</l>
+            <l>Only in <hi>hatred</hi> to <hi>Religion.</hi>
+            </l>
+            <l>None were more faithful to their Prince then they,</l>
+            <l>For their Religion taught them to obey. <note place="margin">Rom. 13. 1. 1 Pet. 2. 13.</note>
+            </l>
+            <l>This short Narration evidently shews</l>
+            <l>What measure we may look for from such foes,</l>
+            <l>If ever God should punish the discords</l>
+            <l>Amongst our selves, by making them our Lords.</l>
+            <l>
+               <hi>Helvetia's</hi> troubles, which are yet on foot</l>
+            <l>You'l finde come from one, and the self-same root:</l>
+            <l>And the pretence which unto peace they make,</l>
+            <l>Is only that they may advantage take.</l>
+            <l>Which if once got, beleev't you'l quickly find,</l>
+            <l>They'l change their posture, but not change their mind.</l>
+            <l>Look further on, you'l soon have in your eye</l>
+            <l>The persecutions now in <hi>Germany.</hi>
+            </l>
+            <l>
+               <hi>Romes</hi> black-spread Eagle, like a Bird of prey,</l>
+            <l>Did lately drive the harmless Doves away:</l>
+            <l>Who from their homes unjustly banished,</l>
+            <l>Hoping of shelter, into <hi>Poland</hi> fled:</l>
+            <l>But quickly were driven thence, with them the <hi>Jews.</hi>
+            </l>
+            <l>May not that be one means, which God may use</l>
+            <pb n="13" facs="tcp:168417:6"/>
+            <l>To call them in? when they shall find and see</l>
+            <l>They'r both cast out by the same enemy?</l>
+            <l>And may not God of shelter there deprive them,</l>
+            <l>At once, that so he may together drive them?</l>
+            <l>And that he one and the same trouble sends</l>
+            <l>On both at once, thereby to make them friends?</l>
+            <l>Pray for the time when as those poor disperst</l>
+            <l>Shall look up to him, whom they sometimes <hi>peirc't.</hi>
+               <note place="margin">Zach. 12. 10.</note>
+            </l>
+            <l>And with a bitter lamentation mourn</l>
+            <l>For their unkindness: But I shall return</l>
+            <l>To <hi>Poland,</hi> where <hi>Comenius</hi> eyes beheld</l>
+            <l>Sad <hi>Lesna's</hi> Story, hard to be paralleld.</l>
+            <l>This hel-bred Maxime to their practice stickes,</l>
+            <l>Faith is not to be kept with Heretiques;</l>
+            <l>So they call Protestants; and 'twill appear</l>
+            <l>Tis their design to rout them every where.</l>
+            <l>At <hi>Colen</hi> they are warnd from their abode,</l>
+            <l>Because they make not <hi>Flora</hi> of their God.</l>
+            <l>But as twas carried there, a small pretence</l>
+            <l>VVould seem sufficient ground to drive them thence.</l>
+            <l>I need not tell you what sad things are done</l>
+            <l>Under the bloody Inquisition;</l>
+            <l>Nor that theres subtle Emissaries sent</l>
+            <l>Throughout the world, to Isle and Continent.</l>
+            <l>That if Religion peep up in the earth,</l>
+            <l>They may destroy it in the very birth.</l>
+            <l>In <hi>Scotland</hi> they their work full closely ply,</l>
+            <l>And haye subverted many a Family:</l>
+            <l>There where the <hi>Bishops</hi> could not get a foot,</l>
+            <l>We plainly see the <hi>Jesuites</hi> can do't.</l>
+            <pb n="14" facs="tcp:168417:7"/>
+            <l>'Tis thus abroad: at home they do combine</l>
+            <l>By new-found stratagems, to undermine</l>
+            <l>Our <hi>Laws,</hi> our <hi>Liberties, Religion, State;</hi>
+            </l>
+            <l>Witness their subtle actings here of late:</l>
+            <l>The Locusts like unto the Divel's Apes,</l>
+            <l>Have put themselves under all Forms and Shapes: <note place="margin">Rev. 9. 3.</note>
+            </l>
+            <l>Like <hi>Sampsons Foxes,</hi> several waies they turn,</l>
+            <l>But carry Firebrands in their Tayls, to burn; <note place="margin">Judg. 15. 4.</note>
+            </l>
+            <l>They plot, contrive, and labour for to sow</l>
+            <l>Cursed dissentions wheresoere they go:</l>
+            <l>Their <hi>Colledges</hi> are empti'd, and 'tis done</l>
+            <l>To <hi>Preach</hi> and <hi>Pray</hi> y'into confusion;</l>
+            <l>Under high shows of holiness, these youths <note place="margin">1 Tim. 4. 1, 2, 3</note>
+            </l>
+            <l>Would cheat you out of Fundamental Truths, <note place="margin">Jude 4.</note>
+            </l>
+            <l>And Sathan find out ways, apt to deceive</l>
+            <l>Even th'Elect, if God would give him leave: <note place="margin">Mat. 24. 24.</note>
+            </l>
+            <l>Under one specious form there closely lurks <note place="margin">Mark 13. 22. Iames 2. 10. Gal. 3. 3.</note>
+            </l>
+            <l>Th' uncomfortable Covenant of Works.</l>
+            <l>Under another you may find the ill</l>
+            <l>Of the up-lifting Doctrine of Free-will;</l>
+            <l>Which when received, naturally makes place</l>
+            <l>For that heart-sadning thought, falling from grace.</l>
+            <l>Others you have who to Election go,</l>
+            <l>And would that blest foundation overthrow. <note place="margin">2 Tim. 2. 9.</note>
+            </l>
+            <l>Some do set up th'Ordinances too high,</l>
+            <l>Others lay them too low, and down do cry</l>
+            <l>Even those which Christ commanded should remain,</l>
+            <l>And be of use, until he come again.</l>
+            <l>Some would set up that <hi>Kingdom</hi> by the sword, <note place="margin">Mat. 28. 19, 20:</note>
+            </l>
+            <l>Which must be set up by the <hi>Spirit</hi> and <hi>Word.</hi>
+               <note place="margin">Zac. 4. 6.</note>
+            </l>
+            <pb n="15" facs="tcp:168417:7"/>
+            <l>Some say, <hi>Lo, here is Christ,</hi> some say, <hi>Lo there.</hi>
+               <note place="margin">Matth. 24. 23.</note>
+            </l>
+            <l>Look to the bottom, Is Christ any where?</l>
+            <l>Thus to our grief it cannot be deny'd</l>
+            <l>But many precious souls are led aside.</l>
+            <l>Our duty is to pray for the time, when</l>
+            <l>The Spirit of God shall bring them in again. <note place="margin">1 Ioh. 5. 16.</note>
+            </l>
+            <l>But each discerning man may see with ease</l>
+            <l>The <hi>Jesuits</hi> subtle actings in all these:</l>
+            <l>Whom <hi>Satan</hi> their grand master, doth engage</l>
+            <l>To stifle and fore-stal in every age</l>
+            <l>Those Truths which God intends to bring to view,</l>
+            <l>Each age (through mercy) having somthing new.</l>
+            <l>Which <hi>Satan</hi> seeing now will come to light,</l>
+            <l>Raiseth a dust to hide them from our sight:</l>
+            <l>His agents to all corners he dispatcheth,</l>
+            <l>Who by their sophistry, and cunning, hatcheth</l>
+            <l>A brood of <hi>Errors,</hi> unto truth so like,</l>
+            <l>That at their very being they do strike.</l>
+            <l>
+               <hi>Pictures</hi> and <hi>Meddals</hi> commonly are sold, <note place="margin">Gal. 3. 1.</note>
+            </l>
+            <l>And oft at such rate, as I dare be bold</l>
+            <l>To say, it is not fully half their worth;</l>
+            <l>Which is a subtle way to send them forth.</l>
+            <l>How many thousand books late printed be,</l>
+            <l>Some of remote, others <hi>flat Popery?</hi>
+            </l>
+            <l>And for the most part such are sooner vented,</l>
+            <l>Then any Books of our Religion printed.</l>
+            <l>Thus of <hi>Christs precious Truths</hi> they seek to out you,</l>
+            <l>Then <hi>Brethren,</hi> is't not time to look about you?</l>
+            <l>When as you find at home by secret fraud,</l>
+            <l>And by profest hostility abroad:</l>
+            <pb n="16" facs="tcp:168417:8"/>
+            <l>They are even restless, seeking to devour,</l>
+            <l>And certainly if it were in their power,</l>
+            <l>They would not leave a Saint of God alive.</l>
+            <l>Consider then, <hi>Is this a time to strive?</hi>
+            </l>
+            <l>And though to work their ends, they may declare</l>
+            <l>That such, and such forms, they intend to spare:</l>
+            <l>Believe it friends, you'l never find it so,</l>
+            <l>Their cruelties will no distinction know.</l>
+            <l>Then give me leave to speak a word or two,</l>
+            <l>First to my own heart, and then next to you;</l>
+            <l>And not to any one Form, but to all,</l>
+            <l>For this disease is Epidemical.</l>
+            <l>Where is that brotherly affection, where,</l>
+            <l>That should inable us in love to bear <note place="margin">Rom. 15. 1.</note>
+            </l>
+            <l>With one another, and to suffer long?</l>
+            <l>Are we not rather ready to do wrong, <note place="margin">Gal. 6. 2.</note>
+            </l>
+            <l>Each one to bite, and to devour his brother?</l>
+            <l>Take heed we ben't consumed each by other.</l>
+            <l>And truly we may fear no better thing <note place="margin">Gal. 5. 15.</note>
+            </l>
+            <l>VVill from the root of our <hi>Divisions</hi> spring.</l>
+            <l>VVhom do you gratifie? whom do you please?</l>
+            <l>Not God the Father, he's the God of peace.</l>
+            <l>Not Jesus Christ, who is your elder brother, <note place="margin">Phil. 4. 9.</note>
+            </l>
+            <l>He dy'd to reconcile you each to other.</l>
+            <l>Do you not grieve the holy spirit of love? <note place="margin">Eph. 2. 16, Eph. 4. 30.</note>
+            </l>
+            <l>Ah! Brethren, this, this is not from above;</l>
+            <l>For where envie and strife are, there doth lurk</l>
+            <l>Confusion, and every evil work.</l>
+            <l>They who the cause of your divisions hit,</l>
+            <l>Say 'its not from <hi>Jesus,</hi> but the <hi>Jesuit.</hi>
+            </l>
+            <pb n="17" facs="tcp:168417:8"/>
+            <l>T is they, and such as they you gratify,</l>
+            <l>The friends of Satan, your grand enemy.</l>
+            <l>Your sad divisions makes the Divel sport,</l>
+            <l>Yet doth he rage; we hope his time is short.</l>
+            <l>Men watch and wish, and hope for such an hour <note place="margin">Rev. 12. 12.</note>
+            </l>
+            <l>When you divided shall your selves devour.</l>
+            <l>And they design in VVar you to imbroil,</l>
+            <l>Whilst they lye watching to divide the spoil.</l>
+            <l>Pray let's consider, is there ought can be</l>
+            <l>A ground sufficient for our enmity?</l>
+            <l>Sin is most loathsome in the great Gods eye,</l>
+            <l>Suppose thy Brother's fall'n, and yet doth lye</l>
+            <l>(As thou hast cause to fear) in that sad state,</l>
+            <l>Thou maist his sin, but not his person hate;</l>
+            <l>If through thy weakness thy dislike should be</l>
+            <l>From outward failing, or deformity.</l>
+            <l>Remember we are promis'd such a day <note place="margin">Zach. 3. 4. 1 Cor. 15. 5.</note>
+            </l>
+            <l>When imperfections shall be done away.</l>
+            <l>And who now carries what might make him loath'd</l>
+            <l>Shall be with glory and perfection cloth'd.</l>
+            <l>Or dost thou something in thy Brother see,</l>
+            <l>Makes thee suspect him for Hypocrisie?</l>
+            <l>Better loose love upon ten Hypocrites,</l>
+            <l>Then keep from one poor Christian what befits</l>
+            <l>Thee for to give him, and what is his due</l>
+            <l>How poor soever, if sincere and true.</l>
+            <l>Suppose thy Brother very mean, and poor,</l>
+            <l>If so, thou shouldst not love him less, but more,</l>
+            <l>And let this be one Argument to move thee,</l>
+            <l>For ought thou know'st hee'l fit in Heaven above thee</l>
+            <pb n="18" facs="tcp:168417:9"/>
+            <l>Are thy gifts more then his? yes, we confess.</l>
+            <l>Are not his graces more, corruptions less?</l>
+            <l>Is he advanced far above thee here?</l>
+            <l>If both do well; his love thou needst not fear.</l>
+            <l>And love will still be doing good to all.</l>
+            <l>Tell me good Brother, what hurt did befall</l>
+            <l>The Church of God, when <hi>Joseph</hi> was prefer'd?</l>
+            <l>Have ye not of good <hi>Nehemiah</hi> heard,</l>
+            <l>Of <hi>Ezra, Daniel,</hi> and of <hi>Hester</hi> too?</l>
+            <l>How worthily they in their age did doe?</l>
+            <l>That God will give ours hearts, lets hope, and pray,</l>
+            <l>In good to act their parts, as well as they.</l>
+            <l>And if they fail then to imploy their powers</l>
+            <l>For publick good, 'twill be their sin, not ours.</l>
+            <l>Hast thou got knowledg in some mysteries</l>
+            <l>Which are as yet hid from thy Brethrens eyes?</l>
+            <l>They have that portion which the wise God gave them</l>
+            <l>And not their knowledg, but their faith will save them. <note place="margin">1 Cor. 4. 7.</note>
+            </l>
+            <l>And if they walk up unto what they know,</l>
+            <l>They go beyond thee, if thou do not so.</l>
+            <l>Tis certain my dear Brethren, we do erre,</l>
+            <l>When Form above the matter we prefer.</l>
+            <l>Nor shall we faithfully our duty do,</l>
+            <l>If we with <hi>Faith</hi> respect not <hi>Order</hi> too.</l>
+            <l>Or is it so thou seest thy brother lye,</l>
+            <l>Under some failing or infirmity?</l>
+            <l>I prethee Brother let thy love be shown</l>
+            <l>To him, but till thou findst out <hi>one</hi> hath none:</l>
+            <l>Or put case, the condition may be such</l>
+            <l>That in your judgments ye do differ much.</l>
+            <pb n="19" facs="tcp:168417:9"/>
+            <l>And that in such things, as at the first sight</l>
+            <l>May seem a sober spirit to affright.</l>
+            <l>If that the life, and conversation render</l>
+            <l>Thy Brother such, whose conscience is tender.</l>
+            <l>If you by love and Scripture Argument</l>
+            <l>Can change his judgment, it may give content.</l>
+            <l>If by coercive power youle force him in</l>
+            <l>And that way set, him unto you to win.</l>
+            <l>Such power o're conscience, true, Christ hath to do with</l>
+            <l>But Cudgels are not Instruments to woe with,</l>
+            <l>But we alass! in this sad posture stand</l>
+            <l>I am of <hi>Paul</hi> faith one, another and</l>
+            <l>I of <hi>Apollo</hi> am, of <hi>Cephas</hi> I:</l>
+            <l>Then, saith another brother who stands by</l>
+            <l>And I of <hi>Christ;</hi> it cannot be deny'd</l>
+            <l>'Twas Christ alone was for us crucify'd:</l>
+            <l>But is it probable that Christ may be</l>
+            <l>Head of those Members that so disagree?</l>
+            <l>And is our difference in the main so much,</l>
+            <l>As it should cause our distance to be such?</l>
+            <l>And hath not Christ accepted some of those <note place="margin">Rom. 14. 3.</note>
+            </l>
+            <l>Whom we (and but for form sake) use as foes.</l>
+            <l>But look in all the forms amongst us known</l>
+            <l>And say in <hi>which</hi> God hath not <hi>some</hi> his own.</l>
+            <l>Are they <hi>Episcopal?</hi> grant it; what then?</l>
+            <l>
+               <hi>Cranmer</hi> and <hi>Ridley,</hi> were not they good men?</l>
+            <l>And holy <hi>Hooper,</hi> with a many more</l>
+            <l>Such blessed souls wh' are gone to Heaven before:</l>
+            <l>But they are <hi>Presbyterians;</hi> what were they</l>
+            <l>Of whom so great a number in one day</l>
+            <pb n="20" facs="tcp:168417:10"/>
+            <l>Were silenc't by <hi>King James</hi> at <hi>Hampton-Court?</hi>
+            </l>
+            <l>Were they not holy men of good report?</l>
+            <l>And are there not still many in our days,</l>
+            <l>Godly, wise, sober men, deserving praise?</l>
+            <l>But they are <hi>Independants,</hi> well be it so,</l>
+            <l>Have you not heard, now many years ago</l>
+            <l>Of learned <hi>Ainsworth,</hi> and grave <hi>Robinson,</hi>
+            </l>
+            <l>Whose VVorks still praise them, though themselves are gone.</l>
+            <l>And of what Judgment have you heard they were,</l>
+            <l>VVho rather then they would submit to bear</l>
+            <l>The <hi>Antichristian</hi> Yoke, made their retreats</l>
+            <l>Into a VVilderness, and place of straits?</l>
+            <l>Others for the same cause departed hence</l>
+            <l>Beyond the Seas, unto their great expence.</l>
+            <l>Be thankful for them, and do both this right,</l>
+            <l>God help them both to search, and send forth light.</l>
+            <l>Many of those, (whose memories are blest)</l>
+            <l>Finisht their course abroad, and are at rest.</l>
+            <l>Others returnd again, of whose true worth</l>
+            <l>I need not speak, their VVorks may hold it forth.</l>
+            <l>And some stayd here, who were by grace preserv'd</l>
+            <l>And faithfully their generation serv'd.</l>
+            <l>But there are <hi>Anabaptists;</hi> so some call them,</l>
+            <l>VVeel' not dispute the name, all good befall them.</l>
+            <l>Good Brother let thy charity advance</l>
+            <l>To give them timeing of an Ordinance.</l>
+            <l>And for what else most hold, you need not fear them.</l>
+            <l>However, 'tis not Christian like to jeer them.</l>
+            <l>VVhat though some weak ones in the water fall?</l>
+            <l>Be modest Brother, do not censure all.</l>
+            <pb n="21" facs="tcp:168417:10"/>
+            <l>Look but amongst them with impartial eyes,</l>
+            <l>You'le find ther's many godly, sober, wise.</l>
+            <l>And if the Lord continue truth and peace,</l>
+            <l>'Tis probable their number will encrease.</l>
+            <l>
+               <hi>John Leydens</hi> Tale, which serves at every turn</l>
+            <l>Hath been so much abus'd its thred-bare worn.</l>
+            <l>That which is truth, it must not be deny'd,</l>
+            <l>But 'tis not truth, when falsly it's apply'd.</l>
+            <l>Have many of them failings, do not boast,</l>
+            <l>Look in all <hi>Forms,</hi> and tell me <hi>who hathmost.</hi>
+               <note place="margin">James 3. 2.</note>
+            </l>
+            <l>Take any Form wherein there is none sin,</l>
+            <l>I'le take up that, and leave what I am in.</l>
+            <l>Lets bear one with another, and all pray</l>
+            <l>Causes of diffrence may be washt away: <note place="margin">Eph. 4. 2, 3.</note>
+            </l>
+            <l>For any other, who do Christ profess,</l>
+            <l>And plead for <hi>free-grace,</hi> and for <hi>holiness.</hi>
+            </l>
+            <l>If that their walking answerable be,</l>
+            <l>I can love them, and beg they will love me:</l>
+            <l>And as we all desire much sin to shun</l>
+            <l>Lay by this <hi>Cain-like</hi> disposition. <note place="margin">1 Joh. 3. 12.</note>
+            </l>
+            <l>And let it be our labor to increase,</l>
+            <l>
+               <hi>Oneness of spirit, in the bond of peace.</hi>
+            </l>
+            <l>Hath not God layd a strong foundation <note place="margin">Eph. 4. 3.</note>
+            </l>
+            <l>For us to couch in unity upon?</l>
+            <l>Are we not <hi>One</hi> in <hi>things spiritual?</hi>
+            </l>
+            <l>All of <hi>One spiritual body,</hi> having all</l>
+            <l>
+               <hi>One head, One spirit of life,</hi> all the <hi>same hope,</hi>
+            </l>
+            <l>For to attain <hi>One end?</hi> is't not the scope</l>
+            <l>Of every One to serve the <hi>self same Lord,</hi>
+            </l>
+            <l>According to <hi>One Rule,</hi> his blessed Word?</l>
+            <pb n="23" facs="tcp:168417:11"/>
+            <l>Have we not all <hi>One way of union</hi>
+            </l>
+            <l>With Jesus Christ, which is by faith alone?</l>
+            <l>Do we not all profess subjection</l>
+            <l>Unto <hi>One God,</hi> to whose protection,</l>
+            <l>We solely give our selves? Are we not all</l>
+            <l>Members of that <hi>One body</hi> mistical,</l>
+            <l>Whereof the Lord Christ Jesus is the Head,</l>
+            <l>And by <hi>One Spirit</hi> all animated</l>
+            <l>As by <hi>One soul?</hi> And we do all agree,</l>
+            <l>That all the gifts Christ gives us ought to be <note place="margin">1 Cor. 3. 22.</note>
+            </l>
+            <l>Imployd for common good: And have not we</l>
+            <l>
+               <hi>One Baptism, one new birth,</hi> and also <hi>One</hi>
+            </l>
+            <l>And the <hi>same means</hi> for our salvation?</l>
+            <l>Have we not all the self same enemies? <note place="margin">1 Pet. 5. 8.</note>
+            </l>
+            <l>All the same dangers? Are not all these ties?</l>
+            <l>Do not the same out-stretched Arms infold us?</l>
+            <l>Shall not at last, <hi>One</hi> and the <hi>same Heaven</hi> hold us?</l>
+            <l>In all things wherein natural Brethren</l>
+            <l>Partake, you do the like as spiritual men.</l>
+            <l>Your <hi>Father</hi> is the same, the God of love, <note place="margin">2 Cor. 13. 11.</note>
+            </l>
+            <l>Your <hi>Mother</hi> is <hi>Jerusalem</hi> from above: <note place="margin">Gal. 4. 26.</note>
+            </l>
+            <l>The Word and Spirit, that spiritual seed</l>
+            <l>By which you are begot, and which doth feed</l>
+            <l>You every day unto your souls advance:</l>
+            <l>Your'e all begot to one inheritance,</l>
+            <l>The Heavenly <hi>Canaan, Paradise</hi> above, <note place="margin">1 Pet. 4.</note>
+            </l>
+            <l>Be brethren then as in these, so in love.</l>
+            <l>Of all professions and relations,</l>
+            <l>Ther's none have stronger obligations</l>
+            <l>To mutual love, and charity, then you,</l>
+            <l>VVithold not from each other what is due. <note place="margin">1 Joh. 1. 6.</note>
+            </l>
+            <pb n="22" facs="tcp:168417:11"/>
+            <l>Do you not claim to have <hi>communion,</hi>
+            </l>
+            <l>With <hi>God</hi> the <hi>Father,</hi> and with <hi>Christ his Son,</hi>
+            </l>
+            <l>In, by, and through the blessed spirit of grace?</l>
+            <l>Doth not God dwell in you, as in his place</l>
+            <l>Of habitation; Would you have God</l>
+            <l>In an unquiet house make his abode?</l>
+            <l>Surely he will not but the Scripture tells</l>
+            <l>If we love one another, God then dwels <note place="margin">1 Ioh. 4. 12.</note>
+            </l>
+            <l>In us, and we in him; How is the blest</l>
+            <l>VVho entertainment gives to such a Guest?</l>
+            <l>He needs not fear the terrors of the night;</l>
+            <l>For he that loves his brother, dwells in light. <note place="margin">1 Joh. 2. 10.</note>
+            </l>
+            <l>We all pretend to love God, and we know</l>
+            <l>Men cry, he should not live, that doth not so.</l>
+            <l>He that his love to th' brethren denies,</l>
+            <l>And saith he loveth God, surely he lyes, <note place="margin">1 Joh. 4. 20.</note>
+            </l>
+            <l>For these two certainly imply each other</l>
+            <l>If reconcil'd to God, then to thy brother.</l>
+            <l>Were there no other Arguments to move,</l>
+            <l>And stir us up, our brethren to love:</l>
+            <l>This One, <hi>tis Gods command</hi> that we should do it. <note place="margin">1 Joh. 3. 11.</note>
+            </l>
+            <l>Is ground sufficient to engage us to it.</l>
+            <l>But did not <hi>Jesus Christ</hi> our Heavenly friend,</l>
+            <l>Lay down his life 'mongst others, for this end?</l>
+            <l>And when the time drew near he was to dye,</l>
+            <l>With what request did he his Father plye?</l>
+            <l>What was the Theam his tongue did beat upon?</l>
+            <l>
+               <hi>Father I will that all mine may be one,</hi>
+            </l>
+            <l>
+               <hi>As thou, and I are one,</hi> let them agree</l>
+            <l>As having <hi>me in them,</hi> and <hi>I in thee:</hi>
+            </l>
+            <pb n="24" facs="tcp:168417:12"/>
+            <l>And ere his faith did give in his Amen,</l>
+            <l>He begs <hi>ore</hi> and <hi>ore, once</hi> and <hi>again.</hi>
+               <note place="margin">Joh. 13. 35, 36.</note>
+            </l>
+            <l>What our dear Saviours heart was so much in.</l>
+            <l>If our heart slight it, sure twill be our sin.</l>
+            <l>O! let not our unthankfulness be such,</l>
+            <l>To undervalue such a friend so much.</l>
+            <l>Let one effect of his sad suffering be</l>
+            <l>To work a holy Ingenuity</l>
+            <l>In all our souls; and that it may do thus,</l>
+            <l>Let our faith view him, crucify'd for us.</l>
+            <l>Imagine then, dear hearts, that you were cying</l>
+            <l>Your <hi>blessed Lord,</hi> and <hi>Saviour Jesus</hi> dying,</l>
+            <l>Calling aloud, my <hi>dear ones</hi> come, draw near,</l>
+            <l>And my <hi>last dying</hi> Exhortation hear.</l>
+            <l>My dear bought souls, for whose eternal good,</l>
+            <l>I now part freely with my life and blood.</l>
+            <l>My body was the Randezvouz I set,</l>
+            <l>Where you, and all your differences met.</l>
+            <l>I did you all into one body gather,</l>
+            <l>That I might reconcile you to my Father.</l>
+            <l>Also my offering intended was</l>
+            <l>A Sacrifice of peace to bring to pass:</l>
+            <l>And mutual reconciliation</l>
+            <l>Between your selves, and not with God alone.</l>
+            <l>I bore his wrath, that you might be set free.</l>
+            <l>Your enmities and strifes were laid on me:</l>
+            <l>They'r all nayld to my Cross, and lo I dye,</l>
+            <l>My Fathers wrath 'gainst them to pacifie.</l>
+            <l>And that I may by this my painful suffring,</l>
+            <l>Become unto my Father, your peace-offring.</l>
+            <pb n="25" facs="tcp:168417:12"/>
+            <l>O! be not guilty of a double murther,</l>
+            <l>You have slain me, and will you go on further?</l>
+            <l>And by your deadly feuds hold up that strife,</l>
+            <l>The which to reconcile, cost me my life:</l>
+            <l>Beware ye do not wilfully despise</l>
+            <l>This my peace-offring, and this Sacrifice.</l>
+            <l>Which full acceptance with my Father hath,</l>
+            <l>Least you incur his anger, and his wrath.</l>
+            <l>But shew your selves his children to be,</l>
+            <l>By <hi>loving one another,</hi> even as he</l>
+            <l>Hath <hi>giv'n command,</hi> by which you shall fulfill</l>
+            <l>My new Commandment, and this my <hi>last Will.</hi>
+            </l>
+            <l>My peace I leave with you; Brethren <hi>Adieu,</hi>
+               <note place="margin">Joh. 13. 34.</note>
+            </l>
+            <l>Love one another, as I have loved you.</l>
+            <l>For pardon for his Murthrers he had cryed,</l>
+            <l>Now gave his spirit up to God, and dyed.</l>
+            <l>Ah! Brethren, Brethren, 'twas a dismal strife</l>
+            <l>Had force to bring to death the Lord of life.</l>
+            <l>Should not a friends last words pierce to the quick?</l>
+            <l>What should be more perswading Rhetorick?</l>
+            <l>Come then dear brethren, close with him in death,</l>
+            <l>And suck into your souls this his last breath;</l>
+            <l>Let it your living enmities quite smoother,</l>
+            <l>But breath in love to him, and one another.</l>
+            <l>And love will make you <hi>lovely</hi> in <hi>Gods eyes,</hi>
+            </l>
+            <l>And <hi>terrible</hi> unto <hi>your enemies.</hi>
+               <note place="margin">Cant. 6. 4.</note>
+            </l>
+            <l>This being granted, your true interest then</l>
+            <l>Lies much in loving of the Bretheren:</l>
+            <l>And surely Brethren you will find it best</l>
+            <l>To strengthen and preserve that interest.</l>
+            <pb n="26" facs="tcp:168417:13"/>
+            <l>An aged Father drawing near his end,</l>
+            <l>Lying on's death-bed, for his sons did send:</l>
+            <l>Who coming to him, found him very weak,</l>
+            <l>Scarcely possessing strength enough to speak.</l>
+            <l>His breath nere gon, much then he could not say,</l>
+            <l>But strove to shew them, where their interest lay.</l>
+            <l>Casting his eyes about, he there espyed</l>
+            <l>A bunch of shafts, which were together tyed:</l>
+            <l>The which he gave his eldest for to break,</l>
+            <l>Who try'd his strength, but found himself too weak.</l>
+            <l>He bid the others try, from great to less,</l>
+            <l>Which they all did, but with the like success.</l>
+            <l>When they at his command their strength had shewn</l>
+            <l>He took them out of their hands in his own:</l>
+            <l>And with his trembling fingers he them severed,</l>
+            <l>Which done, he quickly them in pieces shivered.</l>
+            <l>Though very weak himself: and 'twas no wonder</l>
+            <l>They lost their strength, when they were tane asun<g ref="char:EOLhyphen"/>der.</l>
+            <l>Behold my Sons (quoth he) your <hi>interest lies</hi>
+            </l>
+            <l>
+               <hi>In keeping close together;</hi> So he dies.</l>
+            <l>So Brethren our true interest will be</l>
+            <l>In keeping and upholding Unity.</l>
+            <l>Amongst onr selves, our numbers are but small</l>
+            <l>Our enemies are numerous; and withall</l>
+            <l>They are enraged, and we soon should know it,</l>
+            <l>If God should give them liberty to shew it;</l>
+            <l>Though for the present they should have despight</l>
+            <l>One to the other, yet they'l soon unite.</l>
+            <l>And though <hi>Manasses</hi> now do <hi>Ephraim</hi> eat,</l>
+            <l>And <hi>Ephraim</hi> doth <hi>Manasses</hi> make his meat:</l>
+            <pb n="27" facs="tcp:168417:13"/>
+            <l>Yet if but once they find it in their power,</l>
+            <l>They'l quickly join poor <hi>Judah</hi> to devour.</l>
+            <l>Come brethren then, let's strive to lay aside</l>
+            <l>All envious lustings, and all swelling pride.</l>
+            <l>Which cause contention, and let us unite</l>
+            <l>And join in one; <hi>Twin-brethren should not fight.</hi>
+            </l>
+            <l>Will not contentions, if kept up by us,</l>
+            <l>Cause <hi>Sion</hi> cry, alass; why am I thus?</l>
+            <l>And by the way, my brethren let us note,</l>
+            <l>The rageful Souldiers would not tear Christs Coat. <note place="margin">Ioh. 19. 42.</note>
+            </l>
+            <l>The <hi>Canaanite</hi> and <hi>Perizite</hi> yet dwell</l>
+            <l>Amongst us, and to one another tell</l>
+            <l>Our failings, with all aggravations, then <note place="margin">Gen. 13. 7. 8.</note>
+            </l>
+            <l>Lets not fall out, for <hi>we are brethren.</hi>
+            </l>
+            <l>Meek <hi>Moses</hi> tells us, in a book he wrote</l>
+            <l>How he rebuk't him, who his fellow smote. <note place="margin">Exod. 2. 13.</note>
+            </l>
+            <l>And did not God, remembring <hi>Edoms</hi> ire <note place="margin">Amos 1. 11.</note>
+            </l>
+            <l>Against his brother, bring devouring fire?</l>
+            <l>How can we think God will let us alone</l>
+            <l>If we uphold such sad contention?</l>
+            <l>Th' all-seeing God observeth every frown, <note place="margin">Gen. 4. 6.</note>
+            </l>
+            <l>And will ask why your countenance is cast down.</l>
+            <l>God certainly loves every child of his:</l>
+            <l>Satan as surely hates each one that is</l>
+            <l>Begot and born of God. Here's good and evil;</l>
+            <l>Will you take part with God, or with the Divel?</l>
+            <l>Chuse which you will, but Lord grant I, and mine,</l>
+            <l>May dayly grow in love to thee, and thine.</l>
+            <l>We owe love to our enemies, who abuse us,</l>
+            <l>And unto them who with despight do use us. <note place="margin">Mat. 5. 44.</note>
+            </l>
+            <pb n="28" facs="tcp:168417:14"/>
+            <l>How much more then are we engagd to shew.</l>
+            <l>Love unto those to whom our selves we owe?</l>
+            <l>
+               <hi>David</hi> who was a <hi>Prophet,</hi> and a King</l>
+            <l>Commends love for a good and pleasant thing. <note place="margin">Psal. 134.</note>
+            </l>
+            <l>And by the Spirit of God commands as fit</l>
+            <l>We should pursue and follow after it.</l>
+            <l>And 'tis a truth which cannot be deny'd, <note place="margin">Psal. 34. 14:</note>
+            </l>
+            <l>Who hates his brother doth in death in abide.</l>
+            <l>And do we not declare by our sad strife, <note place="margin">1 Joh. 3. 19.</note>
+            </l>
+            <l>We are not as yet past from death to life?</l>
+            <l>Look how much short in spiritual love you fall,</l>
+            <l>So much we fail in life spiritual.</l>
+            <l>But by true love to th' brethren thou hast</l>
+            <l>Assurance, thou from death to life art past.</l>
+            <l>And true affection to the Saints will be <note place="margin">1 Joh. 3. 19.</note>
+            </l>
+            <l>A certain token of Gods love to thee.</l>
+            <l>For these two certainly imply each other</l>
+            <l>If reconcil'd to God, then to thy Brother.</l>
+            <l>Love is Christs badge, and 'tis the Livery <note place="margin">Joh. 13. 35.</note>
+            </l>
+            <l>By which all his Disciples known should be.</l>
+            <l>Love suffers long, and it doth not envy,</l>
+            <l>Vaunts not it self, it is not pufft up high, <note place="margin">1 Cor. 13.</note>
+            </l>
+            <l>Unseemingly doth not it self behave.</l>
+            <l>Seeks not her own, then not anothers crave.</l>
+            <l>It is not soon provok't, thinketh not ill;</l>
+            <l>It joys not in iniquity, but still</l>
+            <l>Rejoiceth in the truth, all things it beareth,</l>
+            <l>Hopeth all things, and all things it endureth:</l>
+            <l>Unto all duties else it lends a worth,</l>
+            <l>No action will be good where love's left forth.</l>
+            <pb n="29" facs="tcp:168417:14"/>
+            <l>On multitude of sin love casts a vail,</l>
+            <l>And it will last when other graces fail;</l>
+            <l>For when we shall be taken up above,</l>
+            <l>Though faith may cease, we shall encrease our love.</l>
+            <l>O precious grace! would you encrease your store,</l>
+            <l>Then use it, and ti's certain you'l have more.</l>
+            <l>The love of Christ was efficacious</l>
+            <l>To reconcile th' offended God and us.</l>
+            <l>And should it not be as effectual</l>
+            <l>To work the same effect upon us all?</l>
+            <l>If we be cause of one anothers grief,</l>
+            <l>Under discomforts, who shall give relief?</l>
+            <l>If our unkindness make each other sad,</l>
+            <l>In our discomforts, who shall make us glad?</l>
+            <l>If we stop ear to all, who then will hear us?</l>
+            <l>If we make sad our Brethren, who shall chear us?</l>
+            <l>Put case thy Brother greatly hath offended,</l>
+            <l>For give him freely, and the quarrel's ended.</l>
+            <l>If he confess his fault, and pardon crave,</l>
+            <l>Think, he that forgives, shall forgiveness have.</l>
+            <l>Did God ten thousand Talents thee remit,</l>
+            <l>And wilt not thou thy brother ten pence quit.</l>
+            <l>Doth not th' Apostle teach us how that we</l>
+            <l>To one another should like minded be? <note place="margin">2 Phil 2. 1. 5. 6.</note>
+            </l>
+            <l>Have the same love, and be of <hi>one accord</hi>
+            </l>
+            <l>
+               <hi>And of one mind</hi> with <hi>Jesus Christ our Lord.</hi>
+            </l>
+            <l>Be pitiful, be courteous, be tender.</l>
+            <l>And ill, for ill take heed we do not render.</l>
+            <l>Are you not hastning home to your abode</l>
+            <l>Unto your Father, good <hi>old Jacobs</hi> God?</l>
+            <pb n="30" facs="tcp:168417:15"/>
+            <l>Suppose you heard your brother <hi>Jesius say.</hi>
+               <note place="margin">Gen. 45. 24.</note>
+            </l>
+            <l>As <hi>Joseph, Brethren fall not out by th' way.</hi>
+            </l>
+            <l>And certainly what ere your diff'rence be,</l>
+            <l>While here on earth, in Heaven you must agree.</l>
+            <l>Lets be exhorted then my brethren dear,</l>
+            <l>T' enjoy that part of Heaven, while we are here.</l>
+            <l>Consider friends then what's fit to be done,</l>
+            <l>Unite both hearts and hands and become one.</l>
+            <l>Let all unkindnesses be quite forgot,</l>
+            <l>Join all four hands, and knit a true loves knot.</l>
+            <l>Join, join in one, and let your prayers join,</l>
+            <l>And in a Heavenly Harmony combine.</l>
+            <l>So to the glorious ears of him ascend,</l>
+            <l>Who is Almighty, and whose power can bend</l>
+            <l>Our stubborn hearts, humble, and bring them lower.</l>
+            <l>Prayers made in faith and love, have mighty power,</l>
+            <l>And so prevailing with the God of might,</l>
+            <l>What ever things are wrong, 'twill set them right, <note place="margin">Isa. 11. 6. 65. 25.</note>
+            </l>
+            <l>Pray for those <hi>Halcion days</hi> we hope t'inherit,</l>
+            <l>When being taught and ruled by the spirit.</l>
+            <l>The <hi>Wolf,</hi> the <hi>Lamb,</hi> the <hi>Leopard,</hi> and the <hi>Kid,</hi>
+            </l>
+            <l>Shall play together, and together feed.</l>
+            <l>Young <hi>Calves</hi> shall sport with <hi>Lions,</hi> and not dread them,</l>
+            <l>And be so tame, <hi>a little child</hi> shall lead them.</l>
+            <l>The <hi>Cow</hi> and <hi>Bear</hi> shall feed each other by;</l>
+            <l>Their diff'ring young ones, shall <hi>together</hi> lye.</l>
+            <l>The <hi>Lions</hi> like the <hi>Oxen straw shall eat,</hi>
+            </l>
+            <l>And be content with what <hi>earth</hi> yields for meat.</l>
+            <l>The <hi>sucking child</hi> shall on the <hi>Aspes</hi> hole play,</l>
+            <l>The <hi>weaned child</hi> its tender hand shall lay</l>
+            <pb n="31" facs="tcp:168417:15"/>
+            <l>Without dread on the <hi>Cockatrices</hi> den.</l>
+            <l>I'th holy Mountain <hi>none shall do hurt then.</hi>
+            </l>
+            <l>All troubles 'mongst the Saints shall then be still'd,</l>
+            <l>And th' earth with knowledg of the Lord be fill'd.</l>
+            <l>The envy then of <hi>Ephraim</hi> shall depart,</l>
+            <l>And <hi>Judah's</hi> enemies shall surely smart,</l>
+            <l>And be cut off, all mischief then shall cease,</l>
+            <l>Men shall be harmless, and there shall be peace:</l>
+            <l>Beg then of God with knowledge to inrich us,</l>
+            <l>And by his spirit so to guide and teach us,</l>
+            <l>That though our dispositions diff'rent be,</l>
+            <l>And judgments are in some things contrary</l>
+            <l>Yet we may that blest exhortation heed</l>
+            <l>
+               <hi>To walk together so far as agreed.</hi>
+            </l>
+            <l>Then shall our Bow in mighty strength abide,</l>
+            <l>And <hi>Jacobs God</hi> shall surely through the side</l>
+            <l>Of all our foes direct our nimble swords,</l>
+            <l>Till they shall bow and fall, and take the cords</l>
+            <l>Of his severer Law, and Discipline,</l>
+            <l>And hand in hand with joy return'd combine</l>
+            <l>To serve our God, and early kiss his Son,</l>
+            <l>Crowding to have divine protection.</l>
+            <l>From all that wrath, which shall alass! surround</l>
+            <l>Such as rebellious to <hi>our King</hi> are found.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
